@@ -18,5 +18,5 @@ This project analyzes Olympic medal and participation data (Tokyo 2020) using Sn
 ## Project Dashboard
 ![Dashboard Preview](https://github.com/Anshika2022960/Olympic_Medal_Analysis_2020/blob/main/dashboard_preview.png)
 
-## Author
+
 [Monalisa Mohapatra] | Euron Internship | 2025
