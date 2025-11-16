@@ -13,8 +13,8 @@ This project analyzes Olympic medal and participation data (Tokyo 2020) using Sn
 ## Tools Used
 - **Snowflake** – Data modeling and cleaning
 - **Power BI** – Dashboard and visualization
-- **SQL** – Data queries for fact/dimension tables
-
+- **SQL** – Data queries
+  
 ## Project Dashboard
 ![Dashboard Preview](https://github.com/Anshika2022960/Olympic_Medal_Analysis_2020/blob/main/dashboard_preview.png)
 
