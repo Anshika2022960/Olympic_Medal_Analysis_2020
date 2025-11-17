@@ -1,4 +1,5 @@
 ----- Medals Summary
+-- Top 10 countries by total medals
 
 CREATE OR REPLACE TABLE ANALYTICS.MEDALS_Summary AS
 SELECT
